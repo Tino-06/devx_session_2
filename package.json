@@ -1,0 +1,22 @@
+{
+  "name": "devx_session_2",
+  "version": "1.0.0",
+  "description": "database_task",
+  "main": "npm install postgres",
+  "scripts": {
+    "test": "npm install postgres"
+  },
+  "repository": {
+    "type": "git",
+    "url": "npm install dotenv"
+  },
+  "keywords": [
+    "tino"
+  ],
+  "author": "Tino-06",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "postgres": "^3.4.7"
+  }
+}
